@@ -45,7 +45,7 @@ img {
 
 .bg {
   background-color: #1b1b1b;
-  border-color: #8f8f8f;
+  border-color: #636363;
 }
 
 .input {
@@ -111,7 +111,7 @@ a {
 .tb-div {
     overflow-x: auto;
     border-radius: 15px;
-    border: 1px solid #969696;
+    border: 1px solid #636363;
 }
 
 .htable {
@@ -819,7 +819,7 @@ tr:hover .node-url {
 .tb-div-two {
   overflow-x: auto;
   border-radius: 10px;
-  border: 1px solid #acacac;
+  border: 1px solid #636363;
 }
 
 #logo-token {
@@ -872,7 +872,7 @@ tr:hover .node-url {
 
 .tb-token-td {
   padding: 5px;
-  border: 1px solid #a7a7a7;
+  border: 1px solid #636363;
   border-radius: 5px;
 }
 
