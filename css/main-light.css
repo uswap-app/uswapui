@@ -171,7 +171,7 @@ span.fee {
 }
 
 span.details {
-  color: #838383;
+  color: #5c5c5c;
 }
 
 span.token {
@@ -317,7 +317,7 @@ label {
 }
 
 .price-info {
-  color: #838383;
+  color: #5c5c5c;
 }
 
 .price-info:hover {
